@@ -1,1 +1,7 @@
 streamlit
+pymatgen 
+scipy 
+numpy 
+plotly 
+scikit-learn 
+hdbscan
