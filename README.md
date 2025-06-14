@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Cluster Analyser
 
 A simple Streamlit app template for you to modify!
 
